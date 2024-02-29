@@ -1,60 +1,6 @@
 body {
 background-color: rgb(207, 180, 233);
 }
-p1 {
-    text-align: center;
-}
-h3 {
-    text-align: left;
-}
-h3 {
-    text-align: justify;
-}
-h3 {
+h2 {
     text-align: right;
-}
-h2 {
-    text-shadow: 1cm;
-}
-h2 {
-    text-decoration-color: antiquewhite;
-}
-h3 {
-    text-align: center;
-}
-h1 {
-    text-align: center;
-}
-h1 {
-    font-size: xx-large;
-}
-h1 {
-    text-decoration-color: cadetblue;
-}
-ol {
-    text-decoration: overline;
-}
-ol {
-    font-size: x-large;
-}
-ol {
-    color: rgb(22, 107, 93);
-}
-h3 {
-    color: rgb(112, 77, 30);
-}
-h1 {
-    color: brown;
-}
-h1 {
-    text-shadow: crimson;
-}
-h2 {
-    color: rgb(116, 62, 43);
-}
-p {
-    font-size: medium;
-}
-p {
-    color: rgb(184, 105, 82);
 }
