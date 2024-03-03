@@ -1,7 +1,4 @@
-body {
-    background-color: rgb(255, 230, 235);
-}
-h1 {
-    text-align: center;
-    color: antiquewhite;
+.jumbotron {
+    padding: 2rem 1rem;
+    background-color: rgb(198, 170, 224);
 }
