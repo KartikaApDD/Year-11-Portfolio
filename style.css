@@ -8,8 +8,6 @@ body {
 h2 {
     border-top: 2px solid rgb(199, 195, 230);
   }
-h2.outset 
-  {
-    border-style: outset;
-    color: rgb(191, 179, 212);
+body {
+    background-color: rgb(233, 203, 221);
 }
