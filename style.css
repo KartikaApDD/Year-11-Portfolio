@@ -19,6 +19,18 @@ h2 {
 p1 {
     text-align: left;
 }
-.h1 {
+h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
