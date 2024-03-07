@@ -34,3 +34,7 @@ p2 {
 h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+#para1 {
+    text-align: center;
+    color: rgb(209, 181, 233);
+  }
