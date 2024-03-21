@@ -16,6 +16,10 @@ body {
 h2 {
     text-align: center;
 }
+h1 {
+    border-top: 2px solid rgb(199, 195, 230);
+    line-height: 2.4;
+}
 p1 {
     text-align: left;
 }
